@@ -15,4 +15,4 @@
 
 
 🌐 Conecta conmigo
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/sergio-mostacero-villafana-91762221b/))  
+- [LinkedIn]([[https://www.linkedin.com/](https://www.linkedin.com/in/sergio-mostacero-villafana-91762221b/)])  
