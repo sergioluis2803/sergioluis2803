@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 ¡Hola! Soy Sergio Luis  
 
-<!--
-**sergioluis2803/sergioluis2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Android con 3 años de experiencia creando aplicaciones móviles.  
+📱 Apasionado por Jetpack Compose, Firebase, clean architecture y el desarrollo de apps escalables.  
+🚀 Siempre aprendiendo nuevas tecnologías para mejorar mis proyectos.  
 
-Here are some ideas to get you started:
+🛠️ Tecnologías y herramientas
+- Lenguajes: Kotlin, Java  
+- Frameworks / Librerías: Jetpack Compose, Retrofit, Hilt/Dagger, Coroutines, Room, DataStore  
+- Servicios: Firebase (Auth, Firestore, Storage, Messaging)  
+- Otras: Git, GitHub, SQLite, REST APIs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Proyectos destacados  
+- 💸 MoneyCompose – Manejo de presupuestos con ROOM y Jetpack Compose.  
+
+
+🌐 Conecta conmigo
+- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/sergio-mostacero-villafana-91762221b/))  
